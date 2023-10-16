@@ -90,3 +90,5 @@ const nomeCompleto = "Guilheme Ferreira";
 console.log(nomeCompleto);
 
 // nomeCompleto = "Guilherme F."
+
+//Comparações
